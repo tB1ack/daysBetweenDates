@@ -1,0 +1,9 @@
+C:\Users\Tyler Blackman\source\repos\challengeDaysBetweenDates\challengeDaysBetweenDates\bin\challengeDaysBetweenDates.dll.config
+C:\Users\Tyler Blackman\source\repos\challengeDaysBetweenDates\challengeDaysBetweenDates\bin\challengeDaysBetweenDates.dll
+C:\Users\Tyler Blackman\source\repos\challengeDaysBetweenDates\challengeDaysBetweenDates\bin\challengeDaysBetweenDates.pdb
+C:\Users\Tyler Blackman\source\repos\challengeDaysBetweenDates\challengeDaysBetweenDates\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tyler Blackman\source\repos\challengeDaysBetweenDates\challengeDaysBetweenDates\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tyler Blackman\source\repos\challengeDaysBetweenDates\challengeDaysBetweenDates\obj\Debug\challengeDaysBetweenDates.csprojResolveAssemblyReference.cache
+C:\Users\Tyler Blackman\source\repos\challengeDaysBetweenDates\challengeDaysBetweenDates\obj\Debug\challengeDaysBetweenDates.csproj.CoreCompileInputs.cache
+C:\Users\Tyler Blackman\source\repos\challengeDaysBetweenDates\challengeDaysBetweenDates\obj\Debug\challengeDaysBetweenDates.dll
+C:\Users\Tyler Blackman\source\repos\challengeDaysBetweenDates\challengeDaysBetweenDates\obj\Debug\challengeDaysBetweenDates.pdb
